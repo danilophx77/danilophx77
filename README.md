@@ -1,14 +1,45 @@
-<h1 align="center">Hi 👋, I'm Danilo Pruneda</h1>
-<h3 align="center">A passionate frontend and backend developer from Argentina</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/daniloprunedadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniloprunedadm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danilophx77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilophx77/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/danilo.pruneda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/danilo.pruneda" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/danilophx77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danilophx77/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclul8az3gvpyxiy8r6oqmva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclul8az3gvpyxiy8r6oqmva" height="30" width="40" /></a>
+<p align="center">
+  <img src="banner.png" alt="Banner Danilo Pruneda" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Danilo Pruneda</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Frontend+Expert;Backend+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/daniloprunedadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniloprunedadm" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/danilophx77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilophx77" height="30" width="40" /></a>
+  <a href="https://fb.com/danilo.pruneda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danilo.pruneda" height="30" width="40" /></a>
+  <a href="https://instagram.com/danilophx77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danilophx77" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **Fullstack Projects**
+- 🌱 I’m currently learning **Advanced System Architectures**
+- 💬 Ask me about **React, Node.js, and Java**
+- 📫 How to reach me **daniloprunedadm@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="./assets/icons/react.svg" width="40" height="40" alt="react" /> <img src="./assets/icons/nextjs.svg" width="40" height="40" alt="nextjs" /> <img src="./assets/icons/angular.svg" width="40" height="40" alt="angular" /> <img src="./assets/icons/vue.svg" width="40" height="40" alt="vue" /> <img src="./assets/icons/html.svg" width="40" height="40" alt="html" /> <img src="./assets/icons/css.svg" width="40" height="40" alt="css" /> <img src="./assets/icons/bootstrap.svg" width="40" height="40" alt="bootstrap" /> |
+| **Backend** | <img src="./assets/icons/nodejs.svg" width="40" height="40" alt="nodejs" /> <img src="./assets/icons/java.svg" width="40" height="40" alt="java" /> <img src="./assets/icons/spring.svg" width="40" height="40" alt="spring" /> <img src="./assets/icons/python.svg" width="40" height="40" alt="python" /> |
+| **Database** | <img src="./assets/icons/mongodb.svg" width="40" height="40" alt="mongodb" /> <img src="./assets/icons/mysql.svg" width="40" height="40" alt="mysql" /> <img src="./assets/icons/oracle.svg" width="40" height="40" alt="oracle" /> |
+| **Tools** | <img src="./assets/icons/git.svg" width="40" height="40" alt="git" /> <img src="./assets/icons/typescript.svg" width="40" height="40" alt="typescript" /> <img src="./assets/icons/javascript.svg" width="40" height="40" alt="javascript" /> |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
